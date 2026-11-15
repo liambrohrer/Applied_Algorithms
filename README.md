@@ -16,7 +16,7 @@ A collection of Python implementations and exercises in graph algorithms. The ex
 The examples are standalone Python scripts. Run a script with Python 3:
 
 ```bash
-python3 script.py
+python3 filename.py
 ```
 
 Provide input in the format expected by that script. Check the source file for its input structure and any sentinel value that marks the end of input.
