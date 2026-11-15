@@ -1,4 +1,4 @@
-# Advanced Applied Algorithms
+# Applied Algorithms
 
 A collection of Python implementations and exercises in graph algorithms. The examples cover graph representation, traversal, connectivity, bipartite graphs, matching, and network flow.
 
